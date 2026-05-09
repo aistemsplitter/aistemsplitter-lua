@@ -1,7 +1,8 @@
 package = "aistemsplitter"
-version = "dev-1"
+version = "0.1.0-1"
 source = {
   url = "git+https://github.com/aistemsplitter/aistemsplitter-lua.git",
+  tag = "v0.1.0",
 }
 description = {
   summary = "Official Lua SDK for the AIStemSplitter public API.",
